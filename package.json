@@ -1,0 +1,19 @@
+{
+  "name": "projectalertbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "node-notifier": "^10.0.1",
+    "undici": "^4.16.0",
+    "web-streams-polyfill": "^4.0.0"
+  }
+}
